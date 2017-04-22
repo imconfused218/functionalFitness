@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Med Ball</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="36" cy="36" rx="36" ry="36"></ellipse>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="V2---with-nav" transform="translate(-822.000000, -2453.000000)">
+            <g id="Equipment" transform="translate(0.000000, 2304.000000)">
+                <g id="Med-Ball" transform="translate(738.000000, 80.000000)">
+                    <g transform="translate(84.000000, 69.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#000000" xlink:href="#path-1"></use>
+                        <ellipse id="Oval-6" stroke="#3F3F3F" fill="#0F0F0F" mask="url(#mask-2)" cx="35.7307692" cy="36.7591162" rx="46.7307692" ry="15.7591162"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
